@@ -50,9 +50,3 @@
   Implementation of fundamental supervised and unsupervised ML algorithms from scratch, demonstrating a strong mathematical foundation.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Djilali-77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=cd7f32" alt="Djillali's GitHub Stats" />
-</p>
