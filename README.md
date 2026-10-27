@@ -22,7 +22,7 @@
 
 ### 🛠️ Tech Stack & Tools
 
-* **AI & Data Science:** PyTorch, LangChain, ChromaDB, Reinforcement Learning, Scikit-Learn.
+* **AI & Data Science:** PyTorch, LangChain, ChromaDB, Scikit-Learn.
 * **Web Development:** React.js, FastAPI, Node.js, Tailwind CSS.
 * **MLOps & Infrastructure:** Docker, Weights & Biases (W&B), RESTCONF, Netmiko.
 * **Core CS:** Python, C, Data Structures & Algorithms, Network Routing (OSPF/BGP), Linux.
