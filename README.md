@@ -22,34 +22,28 @@
 
 ### 🛠️ Tech Stack & Tools
 
-- **AI & Data Science:** Machine Learning, Deep Learning, PyTorch, LangChain, ChromaDB, Scikit-Learn.
-- **Frontend Development:** React.js, Tailwind CSS, Framer Motion.
-- **Backend Development:** FastAPI.
-- **MLOps & Infrastructure:** Docker, Weights & Biases (W&B), RESTCONF, Netmiko.
-- **Core CS:** Python, C, Data Structures & Algorithms, Network Routing (OSPF/BGP), Linux.
+- **Core:** Python, C, Algorithms, OOP, Linux, Operating Systems, Data Networks (OSPF/BGP)
+- **Machine Learning:** PyTorch, Scikit-Learn, Autoencoders, Anomaly Detection, CNNs
+- **Generative AI:** RAG, LangChain, ChromaDB
+- **Web & APIs:** React, Node.js, FastAPI, Tailwind CSS, REST APIs, Web Scraping
+- **MLOps & Tools:** Docker Compose, Git, Weights & Biases
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Djilali-77&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5" alt="Djillali's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Djilali-77&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=0077B5&amp;icon_color=0077B5" alt="Djillali's GitHub Stats" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🤖 [**Enterprise-RAG-Assistant**](https://github.com/Djilali-77/Enterprise-RAG-Assistant)  
-  A cloud-powered Q&A system using LangChain, ChromaDB, and FastAPI to extract precise answers from custom PDFs via LLMs.
-
 - 🛡️ [**AI-Powered-IDS**](https://github.com/Djilali-77/AI-Powered-IDS)  
-  Deep Learning Autoencoder analyzing network traffic (PCAP) to detect anomalies and cyber attacks in real-time.
-
-- 👁️ [**Retina AI Diagnostic System**](https://github.com/Djilali-77/retina-ai-diagnosis)  
-  A custom ResNet18 model using PyTorch and Grad-CAM for medical image analysis, deployed with Docker and FastAPI.
+  An unsupervised network intrusion detection system built around a PyTorch autoencoder.
 
 - 🚙 [**DzAuto-Radar (Market Pipeline)**](https://github.com/Djilali-77/car-market-pipeline)  
-  End-to-end data pipeline featuring async web scraping (Playwright), ML anomaly detection, and a FastAPI dashboard.
+  Automated car market pipeline and AI dashboard for the Algerian market.
 
-- 🌐 [**Enterprise Network Automation**](https://github.com/Djilali-77/Enterprise-Network-Automation)  
-  A full-stack portal using RESTCONF and Netmiko to automate switch port management and VLAN provisioning.
+- 🌐 [**BannerHound**](https://github.com/Djilali-77/BannerHound)  
+  Credential-less network scanner and OS fingerprinter with live results and risk scoring.
 
 ---
 ### 🌱 Let's Connect & Collaborate
