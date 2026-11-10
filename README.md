@@ -36,16 +36,14 @@
 
 ### 🚀 Featured Projects
 
-- 🛡️ [**AI-Powered-IDS**](https://github.com/Djilali-77/AI-Powered-IDS)  
-  An unsupervised network intrusion detection system built around a PyTorch autoencoder.
+- 🛡️ [**Network IDS & Attack Profiling**](https://github.com/Djilali-77/attack_classification)  
+  An advanced, modular Machine Learning pipeline using Random Forest and XGBoost to classify and profile 15 different network traffic states from the CICIDS2017 dataset.
 
-- 🚙 [**DzAuto-Radar (Market Pipeline)**](https://github.com/Djilali-77/car-market-pipeline)  
-  Automated car market pipeline and AI dashboard for the Algerian market.
+- 🚨 [**Zero-Day Network Anomaly Detection System**](https://github.com/Djilali-77/zero-day-threat-scanner)  
+  An end-to-end, full-stack MLOps project featuring a React dashboard and FastAPI backend, powered by an unsupervised Isolation Forest model to detect zero-day network threats.
+  
+——-
 
-- 🌐 [**BannerHound**](https://github.com/Djilali-77/BannerHound)  
-  Credential-less network scanner and OS fingerprinter with live results and risk scoring.
-
----
 ### 🌱 Let's Connect & Collaborate
 - 💼 I will be actively seeking a **6-month PFE Research & Development (R&D) Internship** starting in **February/March 2028** (France/Europe) focusing on the intersection of **Artificial Intelligence & Cybersecurity**.
 - 💬 Ask me about **PyTorch, AI-driven Intrusion Detection (IDS), or applying Deep Learning to Network Security.**
