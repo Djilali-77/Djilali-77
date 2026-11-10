@@ -42,8 +42,7 @@
 - 🚨 [**Zero-Day Network Anomaly Detection System**](https://github.com/Djilali-77/zero-day-threat-scanner)  
   An end-to-end, full-stack MLOps project featuring a React dashboard and FastAPI backend, powered by an unsupervised Isolation Forest model to detect zero-day network threats.
   
-——-
+---
 
 ### 🌱 Let's Connect & Collaborate
 - 💼 I will be actively seeking a **6-month PFE Research & Development (R&D) Internship** starting in **February/March 2028** (France/Europe) focusing on the intersection of **Artificial Intelligence & Cybersecurity**.
-- 💬 Ask me about **PyTorch, AI-driven Intrusion Detection (IDS), or applying Deep Learning to Network Security.**
